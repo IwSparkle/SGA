@@ -1,0 +1,8 @@
+2021-12-23 16:56:56.961: gowalla_given_u0_i0
+2021-12-23 16:56:56.962: Dataset name: gowalla
+The number of users: 29858
+The number of items: 40981
+The number of ratings: 1027369
+Average actions of users: 34.41
+Average actions of items: 25.07
+The sparsity of the dataset: 99.916038%

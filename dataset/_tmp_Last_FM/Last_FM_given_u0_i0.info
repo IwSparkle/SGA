@@ -1,0 +1,24 @@
+2022-01-03 16:46:56.876: Last_FM_given_u0_i0
+2022-01-03 16:46:56.876: Dataset name: Last_FM
+The number of users: 23566
+The number of items: 47273
+The number of ratings: 778286
+Average actions of users: 33.03
+Average actions of items: 16.46
+The sparsity of the dataset: 99.930138%
+2022-01-06 10:54:27.881: Last_FM_given_u0_i0
+2022-01-06 10:54:27.881: Dataset name: Last_FM
+The number of users: 1312569
+The number of items: 46721
+The number of ratings: 3034763
+Average actions of users: 2.31
+Average actions of items: 64.96
+The sparsity of the dataset: 99.995051%
+2022-01-06 11:02:54.837: Last_FM_given_u0_i0
+2022-01-06 11:02:54.837: Dataset name: Last_FM
+The number of users: 23566
+The number of items: 48123
+The number of ratings: 3034763
+Average actions of users: 128.78
+Average actions of items: 63.06
+The sparsity of the dataset: 99.732400%

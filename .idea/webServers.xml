@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="34f36e26-b4dd-4196-8909-a275ee286b85" name="qzc (project level)">
+        <fileTransfer rootFolder="/home/qzc" accessType="SFTP" host="192.10.84.74" port="30380" sshConfigId="5d097aed-861c-4567-ab7e-6d8dc59a19a0" sshConfig="qzc@192.10.84.74:30380 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

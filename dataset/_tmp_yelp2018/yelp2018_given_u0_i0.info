@@ -1,0 +1,8 @@
+2021-12-24 11:48:45.991: yelp2018_given_u0_i0
+2021-12-24 11:48:45.992: Dataset name: yelp2018
+The number of users: 31668
+The number of items: 38048
+The number of ratings: 1561406
+Average actions of users: 49.31
+Average actions of items: 41.04
+The sparsity of the dataset: 99.870412%
