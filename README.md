@@ -1,7 +1,7 @@
 # SGA
 This is our code for "Self-supervised Graph Learning with adaptive augmentation for Recommendation"
 
-# Acknowledge
+# Reference
 @inproceedings{wu2021self,  
   title={Self-supervised graph learning for recommendation},  
   author={Wu, Jiancan and Wang, Xiang and Feng, Fuli and He, Xiangnan and Chen, Liang and Lian, Jianxun and Xie, Xing},  
